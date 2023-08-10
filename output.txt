@@ -1,0 +1,26 @@
+1)number is less than zero:
+output:The number is less than zero
+
+2)num is divisible by 5
+output:The number is less than zero
+
+3)minutes to second
+output:90 minutes is equal to 5400 seconds.
+
+4)is string empty
+output:is not empty
+
+5)hours into second
+output:1 hours is equal to 3600 seconds
+
+6)count potato
+output:The word 'potato' appears 5 times.
+
+7)Array odf first element
+output:The array is: 10
+
+8)area of triangle
+output:The area of the triangle is: 800 square units
+
+9)age to years
+output:the person in days is: 7300 days.
